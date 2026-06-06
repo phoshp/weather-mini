@@ -5,5 +5,9 @@ I used U8g2 libray for graphics, ArduinoJSON for json deserialization, HTTPClien
 
 ### Pin configuration
 
-- Connect 1 tuct button(internal pull-up) to GPIO8 for Previous City action
-- Connect 1 tuct button(internal pull-up) to GPIO9 for Next City action
+- Connect 1 tact button(internal pull-up) to GPIO8 for Previous City action
+- Connect 1 tact button(internal pull-up) to GPIO9 for Next City action
+
+### Showcase
+
+[project](.github/showcase.jpeg)
