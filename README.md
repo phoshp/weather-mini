@@ -10,4 +10,4 @@ I used U8g2 libray for graphics, ArduinoJSON for json deserialization, HTTPClien
 
 ### Showcase
 
-[project](.github/showcase.jpeg)
+![project](.github/showcase.jpeg)
